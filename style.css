@@ -11,3 +11,5 @@
 .company-link{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px;text-decoration-color:#b8bdc4}.company-link>span{font-size:.6em;color:#68717e;vertical-align:middle}.company-link:hover{color:#c42b3b;text-decoration-color:currentColor}@media print{.company-link{text-decoration:none}.company-link>span{display:none}}
 
 .company-website{display:block;font-size:11px;color:#657080;margin-top:10px;overflow-wrap:anywhere}.company-website:hover{color:#c42b3b}.job-header{flex-wrap:wrap}.job-header .company-website{order:3;flex-basis:100%;margin-top:-6px}
+
+.home-projects{background:#eeece7}.home-projects .project-card{border-color:#cdd0d2}
