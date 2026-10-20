@@ -1,4 +1,4 @@
-# Kivanc Beser — Personal portfolio
+# Kivanc Beser · Personal portfolio
 
 Static, responsive portfolio for https://kivancbeser.github.io/.
 
