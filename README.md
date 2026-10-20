@@ -1,8 +1,9 @@
-# Kıvanç Beşer — Personal portfolio
+# Kivanc Beser — Personal portfolio
 
 Static, responsive portfolio for https://kivancbeser.github.io/.
 
 - `index.html`: introduction, skills, experience and contact
+- `projects.html`: crypto, Web3 and hobby projects curated from the public GitHub profile README
 - `style.css`: responsive layout
 - `script.js`: navigation state
 - `cv.html`: printable résumé; use “Print / Save PDF” to export
